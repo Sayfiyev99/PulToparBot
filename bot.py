@@ -68,7 +68,7 @@ async def buy_vip(message: types.Message):
     await message.reply("💳 To‘lov tizimini tanlang:")
 
 "
-                        "("1️⃣ Click")
+                        ("1️⃣ Click")
 "
                         ("2️⃣ Payme")
 
