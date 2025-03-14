@@ -61,7 +61,7 @@ async def trading_signals(message: types.Message):
                         ("📉 EUR/USD – 1.0950 (Sell) 🎯 1.0850 (Target)")
 
 "
-                        "VIP obuna olish uchun /vip_buy tugmasini bosing!")
+                        ("VIP obuna olish uchun /vip_buy tugmasini bosing!")
 
 @dp.message_handler(commands=['vip_buy'])
 async def buy_vip(message: types.Message):
