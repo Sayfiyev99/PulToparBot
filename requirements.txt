@@ -1,0 +1,5 @@
+aiogram
+openai
+requests
+python-dotenv
+sqlite3
