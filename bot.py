@@ -12,7 +12,7 @@ openai.api_key = OPENAI_API_KEY
 
 @dp.message_handler(commands=['start'])
 async def send_welcome(message: types.Message):
-    await message.reply("👋 Assalomu alaykum! Xush kelibsiz!
+    await message.reply("👋 Assalomu alaykum! Xush kelibsiz!")
 
 "
                         "🤖 AI Chatbot – Savollar bering
